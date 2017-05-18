@@ -1,0 +1,11 @@
+C:\Users\Bernhard\Desktop\Reminder_WindowBorderRemover\Reminder_WindowBorderRemover\bin\Release\Reminder_WindowEditor.exe.config
+C:\Users\Bernhard\Desktop\Reminder_WindowBorderRemover\Reminder_WindowBorderRemover\bin\Release\Reminder_WindowEditor.exe
+C:\Users\Bernhard\Desktop\Reminder_WindowBorderRemover\Reminder_WindowBorderRemover\bin\Release\Reminder_WindowEditor.pdb
+C:\Users\Bernhard\Desktop\Reminder_WindowBorderRemover\Reminder_WindowBorderRemover\obj\Release\Reminder_WindowEditor.csprojResolveAssemblyReference.cache
+C:\Users\Bernhard\Desktop\Reminder_WindowBorderRemover\Reminder_WindowBorderRemover\obj\Release\Reminder_WindowEditor.About.resources
+C:\Users\Bernhard\Desktop\Reminder_WindowBorderRemover\Reminder_WindowBorderRemover\obj\Release\Reminder_WindowEditor.MainUI.resources
+C:\Users\Bernhard\Desktop\Reminder_WindowBorderRemover\Reminder_WindowBorderRemover\obj\Release\Reminder_WindowEditor.Properties.Resources.resources
+C:\Users\Bernhard\Desktop\Reminder_WindowBorderRemover\Reminder_WindowBorderRemover\obj\Release\Reminder_WindowEditor.SetWindowDialog.resources
+C:\Users\Bernhard\Desktop\Reminder_WindowBorderRemover\Reminder_WindowBorderRemover\obj\Release\Reminder_WindowEditor.csproj.GenerateResource.Cache
+C:\Users\Bernhard\Desktop\Reminder_WindowBorderRemover\Reminder_WindowBorderRemover\obj\Release\Reminder_WindowEditor.exe
+C:\Users\Bernhard\Desktop\Reminder_WindowBorderRemover\Reminder_WindowBorderRemover\obj\Release\Reminder_WindowEditor.pdb
